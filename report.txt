@@ -1,0 +1,8 @@
+===== File Counter Report =====
+Total Files: 4
+Total Folders: 0
+
+File Types:
+.py : 2
+.md : 1
+.txt : 1
