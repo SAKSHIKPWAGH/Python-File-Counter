@@ -1,22 +1,34 @@
 # Python File Counter
 
-## Description
-A Python mini-project that counts files and folders in a selected directory.
+## 📌 Description
+A Python mini-project that counts files, folders, and file types in a selected directory and generates a report.
 
-## Features
+## ✨ Features
 - Count total files
 - Count total folders
 - Display file names
 - Count file extensions
-- Generate a report.txt file
+- Generate `report.txt`
 - Handle invalid folder paths
 
-## Technologies Used
+## 🛠 Technologies Used
 - Python 3.11
 - os module
 
-## How to Run
+## ▶️ How to Run
 
 ```bash
 python main.py
 ```
+
+## 📷 Sample Output
+
+(Add your demo.png screenshot here)
+
+## 📁 Project Structure
+
+Python-File-Counter/
+├── main.py
+├── README.md
+├── report.txt
+└── demo.png
